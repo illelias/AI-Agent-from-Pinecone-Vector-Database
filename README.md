@@ -33,7 +33,7 @@ The agent retrieves multiple relevant articles with metadata like category and p
 
 ## Files
 
-- `MiniProject3_final.ipynb`: Main notebook implementing the agent pipeline and inference loop.
+- `AI_Agent_Pinecone.ipynb`: Main notebook implementing the agent pipeline and inference loop.
 
 ## Note
 
